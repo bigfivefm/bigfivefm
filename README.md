@@ -2,7 +2,7 @@
 - 👀 I’m interested in für programmieren von Bots.
 - 🌱 I’m currently learning  website zu programmieren.
 - 💞️ I’m looking to collaborate on Coden und Hosten von Bots.
-- 📫 How to reach me auf discord mit denn Namne Finny.2551 oder über meine adresse raze_finny@gmx.de
+- 📫 How to reach me auf discord mit denn Namne finny.2551 oder über meine adresse raze_finny@gmx.de
 
 <!---
 bigfivefm/bigfivefm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
